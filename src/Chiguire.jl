@@ -1,5 +1,6 @@
 module Chiguire
 
-# Write your package code here.
+export greet, greet_1
+include("functions.jl")
 
 end
